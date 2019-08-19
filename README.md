@@ -1,5 +1,5 @@
 # vlanFd
-Technology specific amendment to the ForwardingDomain class for documenting c-VLAN and S-VLAN components according to 802.1Q-2018.
+Technology specific amendment to the ForwardingDomain class for C-VLAN and S-VLAN Components according to 802.1Q-2018.
 
 ### Branch
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
