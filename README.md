@@ -1,5 +1,5 @@
-# vlanConnection
-Technology specific amendments to the ForwardingDomain, Link and ForwardingConstruct classes for documenting VLANs according to 802.1Q.
+# vlanFd
+Technology specific amendment to the ForwardingDomain class for documenting c-VLAN and S-VLAN components according to 802.1Q-2018.
 
 ### Branch
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
@@ -40,7 +40,7 @@ Technology specific amendments to the ForwardingDomain, Link and ForwardingConst
 
 ### Open Issue List
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [vlanConnection/issues](../../issues)
+- [vlanFd/issues](../../issues)
 
 ### Comments
 ./.
