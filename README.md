@@ -3,7 +3,7 @@
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
-- 1.0.0-tsp.d.t : Use case driven model for the Transport SDN Pilot at Telefonica Germany
+- 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
 - [VlanFd_1.0.0-tsp.200820.1055](./VlanFd_1.0.0-tsp.200820.1055.zip)
