@@ -6,20 +6,20 @@
 - 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- [VlanFd_1.0.0-tsp.200820.1055](./VlanFd_1.0.0-tsp.200820.1055.zip)
+- [VlanFd_1.0.0-tsp.200826.0745](./VlanFd_1.0.0-tsp.200826.0745.zip)
 
 ### Overview 
-- [VlanFd_1.0.0-tsp.200820.1055+overview.1](./VlanFd_1.0.0-tsp.200820.1055+overview.1.png)
+- [VlanFd_1.0.0-tsp.200826.0745+overview.1](./VlanFd_1.0.0-tsp.200826.0745+overview.1.png)
 
 ### GenDoc Export
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [VlanFd_1.0.0-tsp.200820.1055+gendoc.1](./VlanFd_1.0.0-tsp.200820.1055+gendoc.1.docx)
+- [VlanFd_1.0.0-tsp.200826.0745+gendoc.1](./VlanFd_1.0.0-tsp.200826.0745+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFd_1.0.0-tsp.200820.1055+yang.1](./VlanFd_1.0.0-tsp.200820.1055+yang.1.zip)
+- [VlanFd_1.0.0-tsp.200826.0745+yang.1](./VlanFd_1.0.0-tsp.200826.0745+yang.1.zip)
 
 ### JSON Schema
 - to be provided
