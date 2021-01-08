@@ -7,7 +7,7 @@
 
 ### UML
 - [VlanFd_1.0.0-tsp.200826.0745a](./VlanFd_1.0.0-tsp.200826.0745a.zip)
-- [VlanFd_1.0.0-tsp.210105.1615](./VlanFd_1.0.0-tsp.210105.1615.zip)
+- [VlanFd_1.0.0-tsp.210105.1615a](./VlanFd_1.0.0-tsp.210105.1615a.zip)
 
 ### Overview 
 - [VlanFd_1.0.0-tsp.200826.0745+overview.1](./VlanFd_1.0.0-tsp.200826.0745+overview.1.png)
@@ -23,6 +23,7 @@
 ### YANG File
 - [VlanFd_1.0.0-tsp.200826.0745+yang.1](./VlanFd_1.0.0-tsp.200826.0745+yang.1.zip) fixed [Issue#2](../../issues/2)
 - [VlanFd_1.0.0-tsp.200826.0745+yang.2](./VlanFd_1.0.0-tsp.200826.0745+yang.2.zip) fixed [Issue#3](../../issues/3)
+- [VlanFd_1.0.0-tsp.210105.1615a+yang.1](./VlanFd_1.0.0-tsp.210105.1615a+yang.1.zip)
 
 ### JSON Schema
 - to be provided
