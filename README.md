@@ -27,6 +27,7 @@
 - [VlanFd_1.0.0-tsp.200826.0745+yang.1](./VlanFd_1.0.0-tsp.200826.0745+yang.1.zip) fixed [Issue#2](../../issues/2)
 - [VlanFd_1.0.0-tsp.200826.0745+yang.2](./VlanFd_1.0.0-tsp.200826.0745+yang.2.zip) fixed [Issue#3](../../issues/3)
 - [VlanFd_1.0.0-tsp.210105.1615a+yang.1](./VlanFd_1.0.0-tsp.210105.1615a+yang.1.zip)
+!! An Update solving issues #10 + #11 and comprising RPC (incl. error messages) will be provided within next two days !!
 
 ### JSON Schema
 - to be provided
