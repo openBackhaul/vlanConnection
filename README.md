@@ -13,12 +13,12 @@
 ### Overview 
 - [VlanFd_1.0.0-tsp.200826.0745+overview.1](./VlanFd_1.0.0-tsp.200826.0745+overview.1.png)
 - [VlanFd_1.0.0-tsp.210105.1615+overview.1](./VlanFd_1.0.0-tsp.210105.1615+overview.1.png)
-- [VlanFd_1.0.0-tsp.210126.1050+overview.1](./VlanFd_1.0.0-tsp.210126.1050+overview.1.png)
+- [VlanFd_1.0.0-tsp.210126.1050+overview.1](./VlanFd_1.0.0-tsp.210126.1050+overview.1.png) (incl. RPCs and their error messages)
 
 ### GenDoc Export
 - [VlanFd_1.0.0-tsp.200826.0745+gendoc.1](./VlanFd_1.0.0-tsp.200826.0745+gendoc.1.docx)
 - [VlanFd_1.0.0-tsp.210105.1615+gendoc.1](./VlanFd_1.0.0-tsp.210105.1615+gendoc.1.docx)
-- [VlanFd_1.0.0-tsp.210126.1050+gendoc.1](./VlanFd_1.0.0-tsp.210126.1050+gendoc.1.docx)
+- [VlanFd_1.0.0-tsp.210126.1050+gendoc.1](./VlanFd_1.0.0-tsp.210126.1050+gendoc.1.docx) (incl. RPCs and their error messages)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
@@ -27,7 +27,7 @@
 - [VlanFd_1.0.0-tsp.200826.0745+yang.1](./VlanFd_1.0.0-tsp.200826.0745+yang.1.zip) fixed [Issue#2](../../issues/2)
 - [VlanFd_1.0.0-tsp.200826.0745+yang.2](./VlanFd_1.0.0-tsp.200826.0745+yang.2.zip) fixed [Issue#3](../../issues/3)
 - [VlanFd_1.0.0-tsp.210105.1615a+yang.1](./VlanFd_1.0.0-tsp.210105.1615a+yang.1.zip)
-- [VlanFd_1.0.0-tsp.210126.1050+yang.1](./VlanFd_1.0.0-tsp.210126.1050+yang.1.zip)
+- [VlanFd_1.0.0-tsp.210126.1050+yang.1](./VlanFd_1.0.0-tsp.210126.1050+yang.1.zip) (incl. RPCs and their error messages)
 
 ### JSON Schema
 - to be provided
