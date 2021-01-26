@@ -9,6 +9,7 @@
 - [VlanFd_1.0.0-tsp.200826.0745a](./VlanFd_1.0.0-tsp.200826.0745a.zip)
 - [VlanFd_1.0.0-tsp.210105.1615a](./VlanFd_1.0.0-tsp.210105.1615a.zip)
 - [VlanFd_1.0.0-tsp.210119.1020](./VlanFd_1.0.0-tsp.210119.1020.zip) (incl. RPCs)
+- [VlanFd_1.0.0-tsp.210126.1050](./VlanFd_1.0.0-tsp.210126.1050.zip) (incl. RPCs and error messages)
 
 ### Overview 
 - [VlanFd_1.0.0-tsp.200826.0745+overview.1](./VlanFd_1.0.0-tsp.200826.0745+overview.1.png)
