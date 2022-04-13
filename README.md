@@ -23,7 +23,8 @@
 
 ### YANG File
 - [VlanFd_1.0.0-tsp.210126.1050+yang.1](./VlanFd_1.0.0-tsp.210126.1050+yang.1.zip) (Deprecated)
-- [VlanFd_1.0.0-tsp.220407.1740+yang.1](./VlanFd_1.0.0-tsp.220407.1740+yang.1.zip)
+- [VlanFd_1.0.0-tsp.220407.1740+yang.1](./VlanFd_1.0.0-tsp.220407.1740+yang.1.zip) (Deprecated)
+- [VlanFd_1.0.0-tsp.220407.1740+yang.2](./VlanFd_1.0.0-tsp.220407.1740+yang.2.zip)
 
 ### JSON Schema
 - to be provided
