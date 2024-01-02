@@ -18,7 +18,7 @@
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFd_1.0.0-tsi.240104.1920+yang.2](./VlanFd_1.0.0-tsi.240104.1920+yang.2.zip)
+- [VlanFd_1.0.0-tsi.240104.1920+yang.1](./VlanFd_1.0.0-tsi.240104.1920+yang.1.zip)
 
 ### JSON Schema
 - to be provided
